@@ -1,0 +1,9 @@
+body{
+    /* arriba y abajo hay 50px y a los lados 100px */
+    padding: 20px 100px ;
+    font-family: "Roboto Slab", serif;
+}
+/* la clase se llaman con un punto . y los id con el # */
+.foto{
+    border-radius: 10px;
+}
